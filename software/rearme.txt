@@ -1,0 +1,3 @@
+Software component
+- program in source version (ASM)
+- and compiled version (HEX)
